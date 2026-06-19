@@ -1,24 +1,29 @@
-Olá, eu sou Fellipe Wildson 👋
+# Olá, eu sou Fellipe Wildson 👋
 
-Analista de Dados Júnior
+## Sobre mim
 
-Profissional com experiência em gestão operacional, indicadores de desempenho, processos administrativos e análise de dados. Atualmente concluindo formação em Data Analytics com foco em Business Intelligence e tomada de decisão orientada por dados.
+Profissional com experiência em gestão operacional, atendimento e análise de indicadores.
 
-Tecnologias e Ferramentas
+Atualmente em transição para a área de Dados, com formação em Data Analytics pela Digital College Brasil.
 
-📊 Power BI
-🗄️ SQL
-🐍 Python
-🔄 ETL
-📈 KPIs e Indicadores
-📋 Excel Avançado
-🐘 PostgreSQL
+## Tecnologias e Ferramentas
 
-Projetos
+- Power BI
+- SQL
+- Python
+- ETL
+- Excel Avançado
+- PostgreSQL
+- Power Query
+- DAX
 
-🚀 Nike Sales Dashboard (Power BI)
-🚑 Análise da Cobertura do Atendimento Pré-Hospitalar no Ceará (em desenvolvimento)
-📊 Dashboards e análises voltadas para apoio à tomada de decisão
+## Projetos
+
+### Nike Sales Dashboard
+Dashboard interativo desenvolvido em Power BI para análise de desempenho de vendas.
+
+### SAMU Ceará Coverage Analysis
+Análise da evolução da cobertura do atendimento pré-hospitalar utilizando dados do DATASUS e IBGE.
 
 Objetivo Profissional
 
@@ -27,5 +32,7 @@ Busco oportunidades como Analista de Dados Júnior, Analista de BI Júnior ou á
 Contato
 
 💼 LinkedIn: www.linkedin.com/in/fellipewlds
+
+📧 E-mail: fellipewlds@gmail.com
 
 📍 Fortaleza - Ceará - Brasil

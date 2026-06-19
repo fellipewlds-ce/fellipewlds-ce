@@ -6,7 +6,7 @@ Profissional com experiência em gestão operacional, atendimento e análise de 
 
 Atualmente em transição para a área de Dados, com formação em Data Analytics pela Digital College Brasil.
 
-## Tecnologias e Ferramentas
+🛠️ Tecnologias e Ferramentas
 
 - Power BI
 - SQL

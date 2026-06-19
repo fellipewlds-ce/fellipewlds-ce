@@ -19,15 +19,17 @@ Atualmente em transição para a área de Dados, com formação em Data Analytic
 
 ## Projetos
 
-### 📊 Nike Sales Dashboard
-Dashboard interativo desenvolvido em Power BI para análise de desempenho de vendas.
+### 📊 [Nike Sales Dashboard](https://github.com/fellipewlds-ce/nike-sales-dashboard)
 
-### 🚑 Análise de Cobertura do SAMU Ceará
-Análise da evolução da cobertura do atendimento pré-hospitalar utilizando dados do DATASUS e IBGE.
+Dashboard interativo desenvolvido em Power BI com análise de receita, produtos, regiões e canais de venda.
 
-Objetivo Profissional
+### 🚑 [SAMU Ceará Coverage Analysis](https://github.com/fellipewlds-ce/samu-ceara-coverage-analysis)
 
-Busco oportunidades como Analista de Dados Júnior, Analista de BI Júnior ou áreas relacionadas à análise de dados, indicadores, inteligência de negócios e melhoria contínua de processos.
+Projeto de análise da evolução da cobertura do atendimento pré-hospitalar no Ceará utilizando dados do DATASUS e IBGE.
+
+## Objetivo Profissional
+
+Profissional em transição para a área de Dados, buscando oportunidades como Analista de Dados Júnior ou Analista de BI Júnior. Tenho experiência consolidada em gestão operacional e análise de indicadores, aliada a conhecimentos em Power BI, SQL, Python, ETL e Business Intelligence para transformar dados em informações estratégicas para o negócio.
 
 ## 📬 Contato
 
